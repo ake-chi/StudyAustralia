@@ -1,0 +1,16 @@
+.elig-desc{
+
+    ul{
+        li{
+            font-weight: 300;
+            margin:0.5rem 0;
+        }
+    }
+    span.icon{
+        color: $blue;
+        margin-right: 0.3rem;
+        &:before{
+            vertical-align: middle;
+        }
+    }
+}
